@@ -2,12 +2,14 @@
 
 # Messenger Issue Tracker and Road Map
 
-This repo will be used for tracking issues and act as a roadmap across all of Messenger's platforms:
+**This is not a support section**, if you need support or have a question about the app then please send me an email instead. My email is in the `Help and Feedback` section of the Android App.
+
+This repo will be used for tracking issues and act as a roadmap across all of Pulse's platforms:
 
 1. Android App
 2. Backend Server
 3. Web Client
-4. Chrome App
+4. Chrome App/Extension
 
 and any that may be added in the future (iOS, Mac, Windows, etc?).
 
@@ -49,7 +51,5 @@ The same is true from any of the Help and Feedback section links in the chrome a
 
 Add a floating action button to the app which has a home icon on it that only shows when the user is outside of the main app. This way a user can click on that and easily return to the conversation list at any time.
 ```
-
-This is not a support section, if you need support or have a question then please find a contact email in the `Help and Feedback` section of the app.
 
 To report your issue, find the `Issues` link near the top of the web page and click it. Then in the right corner, click the green button labeled `New issue`.
