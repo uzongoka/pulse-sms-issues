@@ -21,12 +21,12 @@ If you have an issue with the app or a feature request, this is the place to rep
 
 When filing an issue with us, please follow these simple rules:
 
-1. Search before adding a new issue, if a duplicate is submitted it will be closed.
+1. Search before adding a new issue. If a duplicate is submitted it will be closed.
 2. Use proper [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) syntax.
 3. Create a fitting title to quickly describe the issue.
-4. Take you time and explain the issue, steps to repeat it or other things that may help us to solve it.
+4. Take your time and explain the issue, steps to repeat it or other things that may help us to solve it. Screenshots are also encouraged.
 5. Note your app version and device name for your primary device (phone/android app).
-6. Type is clear English, if we can't understand it then it will unfortunately need to be closed.
+6. Type in clear English. If we can't understand it then it will unfortunately need to be closed.
 7. Label the issue using any relevant tags on the right side of the screen. For example, a bug in the chrome app would be labeled with `Chrome` and `Bug`.
 
 Here is a sample of what a good issue report would look like, feel free to use it as a template:
