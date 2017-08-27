@@ -14,8 +14,8 @@
 
 **Additional information:**
 
-Do you want to provide any other information? Device configuration, unique cases, anything that you think may be relevant.
+Do you want to provide any other information? Device configuration, unique cases, screenshots, anything that you think may be relevant.
 
 **Possible solution:**
 
-Do you have an idea of how to solve it? If not, that's fine, you can delete this section.
+Do you have an idea of how to solve it? If not, that's fine. You can delete this section.
