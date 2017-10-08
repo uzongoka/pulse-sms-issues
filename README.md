@@ -2,7 +2,7 @@
 
 # Messenger Issue Tracker and Road Map
 
-**This is not a support section**, if you need support or have a question about the app then please send me an email instead. My email is in the `Help and Feedback` section of the Android App.
+**This is not a support section**, if you need support or have a question about the app please start [here](https://messenger.klinkerapps.com/help).
 
 This repo will be used for tracking issues and act as a roadmap across all of Pulse's platforms:
 
@@ -10,8 +10,7 @@ This repo will be used for tracking issues and act as a roadmap across all of Pu
 2. Backend Server
 3. Web Client
 4. Chrome App/Extension
-
-and any that may be added in the future (iOS, Mac, Windows, etc?).
+5. Native Desktop (Windows, macOS, Linux)
 
 To view the currently reported issues and requests, simply hit the [issues](https://github.com/klinker-apps/messenger-issues/issues) tab at the top of the screen.
 
