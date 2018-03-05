@@ -1,6 +1,6 @@
 ![promo](https://raw.githubusercontent.com/klinker-apps/messenger-issues/master/promo/klinker-apps/combined_graphic_pulse.png)
 
-# Messenger Issue Tracker and Road Map
+# Pulse SMS Issue Tracker and Road Map
 
 **This is not a support section**, if you need support or have a question about the app please start [here](https://messenger.klinkerapps.com/help).
 
@@ -51,3 +51,14 @@ Add a floating action button to the app which has a home icon on it that only sh
 ```
 
 To report your issue, find the `Issues` link near the top of the web page and click it. Then in the right corner, click the green button labeled `New issue`.
+
+## Contributing to Pulse SMS
+
+Want to dig in to some code yourself, rather than just report issues to this page? I have two open-source Pulse clients that you can take a look at:
+
+1. The Pulse desktop clients, built on Electron: https://github.com/klinker24/messenger-desktop
+2. The Pulse iOS client, built in Swift: https://github.com/klinker24/messenger-ios
+
+If you are interested in helping, take a look and see what you can build. I am always open to quality contributions towards the app! 
+
+The backend, web interface, and Android apps are not open-source. All the issue tracking/feature requests, for the two repos above, will still be done on this page, as well.
