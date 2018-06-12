@@ -56,8 +56,8 @@ To report your issue, find the `Issues` link near the top of the web page and cl
 
 Want to dig in to some code yourself, rather than just report issues to this page? I have two open-source Pulse clients that you can take a look at:
 
-1. The Pulse desktop clients, built on Electron: https://github.com/klinker24/messenger-desktop
-2. The Pulse iOS client, built in Swift: https://github.com/klinker24/messenger-ios
+1. The Pulse desktop clients, built on Electron: https://github.com/klinker-apps/messenger-desktop
+2. The Pulse iOS client, built in Swift: https://github.com/klinker-apps/messenger-ios
 
 If you are interested in helping, take a look and see what you can build. I am always open to quality contributions towards the app! 
 
