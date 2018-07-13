@@ -54,11 +54,12 @@ To report your issue, find the `Issues` link near the top of the web page and cl
 
 ## Contributing to Pulse SMS
 
-Want to dig in to some code yourself, rather than just report issues to this page? I have two open-source Pulse clients that you can take a look at:
+Want to dig in to some code yourself, rather than just report issues to this page? I have three open-source Pulse clients that you can take a look at:
 
-1. The Pulse desktop clients, built on Electron: https://github.com/klinker-apps/messenger-desktop
-2. The Pulse iOS client, built in Swift: https://github.com/klinker-apps/messenger-ios
+1. The Pulse web app, built on Vue.js: https://github.com/klinker-apps/messenger-web
+2. The Pulse desktop clients, built on Electron: https://github.com/klinker-apps/messenger-desktop
+3. The Pulse iOS client, built in Swift: https://github.com/klinker-apps/messenger-ios
 
 If you are interested in helping, take a look and see what you can build. I am always open to quality contributions towards the app! 
 
-The backend, web interface, and Android apps are not open-source. All the issue tracking/feature requests, for the two repos above, will still be done on this page, as well.
+The backend and Android apps are not open-source. All the issue tracking/feature requests, for the two repos above, will still be done on this page, as well.
