@@ -59,6 +59,7 @@ Want to dig in to some code yourself, rather than just report issues to this pag
 1. The Pulse web app, built on Vue.js: https://github.com/klinker-apps/messenger-web
 2. The Pulse desktop clients, built on Electron: https://github.com/klinker-apps/messenger-desktop
 3. The Pulse iOS client, built in Swift: https://github.com/klinker-apps/messenger-ios
+4. The Pulse Chrome app and browser extension: https://github.com/klinker-apps/messenger-chrome
 
 If you are interested in helping, take a look and see what you can build. I am always open to quality contributions towards the app! 
 
