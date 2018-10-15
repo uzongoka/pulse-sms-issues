@@ -4,7 +4,8 @@ about: Suggest an idea for Pulse.
 
 ---
 
-- [ ] I have [searched](https://github.com/klinker-apps/messenger-issues/issues), by keyword, for my request to verify that there aren't any open or closed issues around this behavior.
+- [ ] I have [searched](https://github.com/klinker-apps/messenger-issues/issues), by keyword, for my request to verify that there aren't any open or closed issues similar to this behavior.
+- [ ] I have [searched the help page](https://messenger.klinkerapps.com/help) to verify that there are not any topics discussing similar behavior.
 
 **Describe your request:**
 A clear and concise description of what you would like to see, and why.

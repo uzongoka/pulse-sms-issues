@@ -5,10 +5,11 @@ about: Create a report to help us improve Pulse.
 ---
 
 - [ ] I have [searched](https://github.com/klinker-apps/messenger-issues/issues), by keyword, for my problem to verify that there aren't any open or closed issues around this behavior.
+- [ ] I have [searched the help page](https://messenger.klinkerapps.com/help) to verify that it does not have any topics relevant to this issue.
 - [ ] I have verified that this is something that is reproducible.
 
 **Device with issue:** Ex: MacBook Pro on MacOS 10.12, running Chrome v54
-**Primary device:** Ex: "Pixel XL on Android 9
+**Primary device:** Ex: Pixel XL on Android 9
 **App version:** Ex: v4.1.5
 
 **Describe the bug:**
