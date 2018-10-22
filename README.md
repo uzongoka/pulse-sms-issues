@@ -37,6 +37,7 @@ Want to dig in to some code yourself, rather than just report issues to this pag
 2. The Pulse desktop clients, built on Electron: https://github.com/klinker-apps/messenger-desktop
 3. The Pulse iOS client, built in Swift: https://github.com/klinker-apps/messenger-ios
 4. The Pulse Chrome app and browser extension: https://github.com/klinker-apps/messenger-chrome
+5. The Pulse Tizen app, for Galaxy Watches: https://github.com/klinker-apps/messenger-tizen
 
 If you are interested in helping, take a look and see what you can build. I am always open to quality contributions towards the app! 
 
