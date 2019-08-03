@@ -6,6 +6,8 @@
 
 This repo will be used for tracking issues and act as a roadmap across all of Pulse's platforms. To view the currently reported issues and requests, simply hit the [issues](https://github.com/klinker-apps/messenger-issues/issues) tab at the top of the screen.
 
+Please do not come here to ask me for an ETA on a feature. I will not be able to provide one. I do the best that I can to implement new features in a timely manor, with respect to the most popular requests, as well as the requests that fit into my vision of the app. If a issue is open, then it has not been implemented/fixed/completed and is planned for future releases. If I choose to close your issue, it is because I have finished it or I simply do not believe it is right for the app.
+
 ## Filing an Issue or Request
 
 If you have an issue with the app or a feature request, this is the place to report it and get feedback! You'll also be able to tell what work is being done on the issue and when it has been completed.
