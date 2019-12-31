@@ -23,7 +23,7 @@ about: Create a report to help us improve the app.
 
 A clear and concise description of what the bug is.
 
-#### Steps to Reproduce
+### Steps to Reproduce
 
 1. Go to '...'
 2. Click on '....'
@@ -32,14 +32,14 @@ A clear and concise description of what the bug is.
 
 `... more steps`
 
-#### Expected Behavior
+### Expected Behavior
 
 A clear and concise description of what you expected to happen.
 
-#### Screenshots
+### Screenshots
 
 If applicable, add screenshots to help explain your problem.
 
-#### Additional Information
+### Additional Information
 
 Add any other context about the problem here. Device configuration, unique cases, anything that you think may be relevant.
