@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest a new feature for the app.
+about: non-contact messages in pulse.
 
 ---
 
@@ -14,7 +14,7 @@ about: Suggest a new feature for the app.
 
 ## Describe Your Request
 
-A clear and concise description of what you would like to see, and why.
+Please if possible, include options for incoming messages from unknown (non-contact) numbers to move to folders of choice or private (passworded) folders or to a folder named "stranger". Currently, because i don't want such messages to be seen by others before I see it, I opt for it to be treated as spam which is also not very good because it can be an important message. I think many people will like it especially when you don't want such messages to be easily accessible to others. Thanks for the good job, I made a lifetime subscription for the app.
 
 ### Describe alternatives you've considered
 
